@@ -54,3 +54,5 @@ npm run dev
 - <a href="https://vueuse.org/">vueuse</a>
 - <a href="https://wavesurfer-js.org/">Wavesurfer-js</a>
 - <a href="https://github.com/Akryum/floating-vue">floating-vue</a>
+
+Please ensure to give me credit when you use this project for business 🙏
