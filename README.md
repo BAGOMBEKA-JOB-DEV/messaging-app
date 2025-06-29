@@ -1,6 +1,6 @@
 <image src="src/assets/images/thumbnail.png" style="border-radius:16px;margin-bottom:5px;"/>
 
-## Features ⚡
+## Features 
 
 This template is packed with a lot of features including:
 
